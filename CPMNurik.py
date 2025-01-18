@@ -1,6 +1,6 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://cpmnurik"
+BASE_URL: str = "https://t.me/Nurik_cpm_shop_bot"
 
 class CPMNurik:
 
