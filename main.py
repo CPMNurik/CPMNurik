@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from cpmnurik import CPMNurik
+from NurikCPM.py import CPMNurik.py
 
 __CHANNEL_USERNAME__ = "CPMNurikchannel"
 __GROUP_USERNAME__   = "CPMNurikchat"
